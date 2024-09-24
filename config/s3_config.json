@@ -1,0 +1,4 @@
+{
+    "bucket_name": "airflow-hook-test",
+    "files_to_upload": ["mock_data.csv"]
+}

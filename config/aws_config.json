@@ -1,0 +1,7 @@
+{
+  "aws_conn_id": "airflow-hook-demo",
+  "aws_conn_type": "aws",
+  "aws_conn_extra": {
+    "region_name": "ap-southeast-1" 
+  }
+}
