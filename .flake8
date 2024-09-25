@@ -1,4 +1,4 @@
 [flake8]
-exclude = .git, __pycache__, .venv, old, build, dist
+exclude = .git, __pycache__, .venv, old, build, dist, airflow-env, source
 max-complexity = 10
 max-line-length = 120
